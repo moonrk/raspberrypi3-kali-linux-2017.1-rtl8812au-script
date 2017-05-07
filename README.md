@@ -9,7 +9,7 @@ This is most likely caused by the crosscompiling of the stock Kali Linux image f
 This script automates the process. To launch, simply run:
 
 ```
-git clone https://github.com/moonrk/raspberrypi3-kali-linux-2017.1-rtl8812au-script
+git clone https://github.com/moonrk/raspberrypi3-kali-linux-2017.1-rtl8812au-script.git
 cd raspberrypi3-kali-linux-2017.1-rtl8812au-script
 ./install.sh
 ```
